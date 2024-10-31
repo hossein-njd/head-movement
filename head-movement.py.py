@@ -23,7 +23,7 @@ head_movement_timers = {
 
 head_movement_hold_time = 3  # حداقل مدت زمان برای ارسال پیام
 
-url = 'https://sngh4sn7-3000.euw.devtunnels.ms/api/direction'
+url = 'https://s****************'
 
 # Function to send head movement to API
 def send_head_movement_to_api(direction):
